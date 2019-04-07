@@ -1,0 +1,16 @@
+*.class
+
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+target/
+bin/
+.mvn/
+
+mvnw.cmd
+mvnw
+.project
